@@ -11,8 +11,11 @@
 <a href="https://github.com/JeanSouza7">
   <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO">
+<a href="https://www.linkedin.com/in/jean-souza-a6b05a28a">
   <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
+</a>
+<a href="mailto:jeean09.souza@gmail.com">
+  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="E-mail"/>
 </a>
 
 </div>
@@ -47,7 +50,7 @@ Gosto de transformar problemas reais em **sistemas, dashboards, aplicações e s
 **Hoje trabalho com:**
 
 - 🐍 **Python** — análise de dados e Machine Learning
-- 🌐 **Web** — HTML, CSS e JavaScript
+- 🌐 **Web** — HTML, CSS, JavaScript e PHP
 - 🗄️ **Bancos de dados e APIs** — PostgreSQL, MySQL, SQLite e Supabase
 - 🚦 **Big Data e infraestrutura** — Linux e Docker
 
@@ -83,7 +86,7 @@ data-engineering/  machine-learning/  backend-apis/  cloud-devops/
 
 **💻 Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" alt="Python, C, HTML, CSS, JavaScript"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,php&theme=dark" alt="Python, C, HTML, CSS, JavaScript, PHP"/>
 
 <br><br>
 
@@ -111,14 +114,12 @@ data-engineering/  machine-learning/  backend-apis/  cloud-devops/
 
 ## `> projects`
 
-### 📊 Dados & Machine Learning
-
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-#### 🚦 Previsão de Tráfego
+### 🚦 Previsão de Tráfego
 
 <a href="https://github.com/JeanSouza7/Previsao-de-Trafego-em-Rodovias">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Previsao-de-Trafego-em-Rodovias&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Previsão de Tráfego em Rodovias"/>
@@ -130,81 +131,48 @@ Previsão de tráfego em rodovias com dados reais e Machine Learning.
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-#### 🎮 Analytics Game
+### 🎮 Analytics Game
 
 <a href="https://github.com/JeanSouza7/Analitics-game">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Analitics-game&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Analytics Game"/>
 </a>
 
-Projeto acadêmico para consulta, análise e comparação de jogos usando dados de APIs.
+Projeto acadêmico que coleta dados de videogames de várias APIs e os apresenta em dashboards interativos.
 
-`Python` `APIs` `Data Analytics`
-
-</td>
-
-<td width="33%" valign="top">
-
-#### 📊 Dataset
-
-<a href="https://github.com/JeanSouza7/dataset">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=dataset&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Dataset"/>
-</a>
-
-Dados utilizados nos projetos de análise e previsão.
-
-`Data` `CSV` `Analytics`
+`Python` `APIs` `Dashboards`
 
 </td>
 
 </tr>
-</table>
-
-### 🧩 Sistemas & Web
-
-<table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-#### 📦 Controle de Estoque
+### 📊 Dataset de Tráfego
 
-<a href="https://github.com/JeanSouza7/Controle_de_estoque">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Controle_de_estoque&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Controle de Estoque"/>
+<a href="https://github.com/JeanSouza7/dataset">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=dataset&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Dataset de Tráfego"/>
 </a>
 
-Sistema para gerenciamento e controle de estoque.
+Dataset de tráfego utilizado no projeto de previsão em rodovias.
 
-`Python`
+`CSV` `Data`
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-#### 🍪 Crock Cookies
+### 🍪 Crock Cookies
 
 <a href="https://github.com/JeanSouza7/Crock-Cookies-Web-Site">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Crock-Cookies-Web-Site&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Crock Cookies"/>
 </a>
 
-Site com foco em interface e apresentação visual.
+Site de uma loja de cookies com cardápio, promoções e SAC, com backend em PHP e SQL.
 
-`HTML` `CSS`
-
-</td>
-
-<td width="33%" valign="top">
-
-#### 🌐 Projeto HTML
-
-<a href="https://github.com/JeanSouza7/Projeto-HTML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Projeto-HTML&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Projeto HTML"/>
-</a>
-
-Projeto de prática em desenvolvimento web.
-
-`HTML` `CSS`
+`HTML` `CSS` `JavaScript` `PHP` `SQL`
 
 </td>
 
@@ -244,14 +212,12 @@ Projeto de prática em desenvolvimento web.
 <a href="https://github.com/JeanSouza7">
   <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO">
+<a href="https://www.linkedin.com/in/jean-souza-a6b05a28a">
   <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
 </a>
-<!-- Opcional: descomente e troque pelo seu e-mail
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:jeean09.souza@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="E-mail"/>
 </a>
--->
 
 <br><br>
 
