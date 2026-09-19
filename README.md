@@ -22,16 +22,15 @@
 
 ---
 
-## `> whoami`
+## 🖥️ `> whoami`
 
 ```text
-jean@github:~$ whoami
-Jean Souza · Estudante de ADS · Backend & Data/ML
+🧑‍💻 jean@github:~$ whoami
+   Jean Souza · Estudante de ADS · Backend & Data/ML
 
-jean@github:~$ cat perfil.txt
-local    : Brasil
-foco     : Backend · Python · Dados · Machine Learning
-status   : online ●
+📍 local    : Brasil
+🎯 foco     : Backend · Python · Dados · Machine Learning
+🟢 status   : online
 ```
 
 ---
