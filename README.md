@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/jean-souza-a6b05a28a/">
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
@@ -123,11 +123,11 @@ Meu objetivo é continuar evoluindo como desenvolvedor e construir soluções ca
 ┌──[ Jean@GitHub ]
 └─$ cat objectives.txt
 
-[████████████████████░░] 90%  → Evoluir como desenvolvedor
-[██████████████████░░░░] 85%  → Data Engineering
-[████████████████░░░░░░] 75%  → Machine Learning
-[██████████████░░░░░░░░] 70%  → Backend & APIs
-[████████████░░░░░░░░░░] 65%  → Cloud & DevOps
+[████████████████████░░] → Evoluir como desenvolvedor
+[██████████████████░░░░] → Data Engineering
+[████████████████░░░░░░] → Machine Learning
+[██████████████░░░░░░░░] → Backend & APIs
+[████████████░░░░░░░░░░] → Cloud & DevOps
 
 STATUS: BUILDING THE NEXT VERSION...
 ```
