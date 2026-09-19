@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111f,100:00e5ff&height=220&section=header&text=JEAN%20SOUZA&fontSize=46&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%7C%20DATA%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=16" width="100%" alt="Jean Souza - Software, Data, Machine Learning"/>
 
 <a href="https://github.com/JeanSouza7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%3E+Estudante+de+ADS+%7C+Python+%7C+Dados;%3E+Transformando+dados+em+decis%C3%B5es;%3E+Machine+Learning+%2B+APIs+%2B+Web;%3E+Bem-vindo+ao+meu+perfil_" alt="Animação de digitação com minhas áreas de interesse"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=%3E+Desenvolvedor+Full+Stack+%7C+Python+%26+PHP;%3E+Backend+Developer+%7C+APIs+REST+%26+Bancos+de+Dados;%3E+Machine+Learning+%26+An%C3%A1lise+de+Dados;%3E+Automatizando+processos+com+Python;%3E+Do+dado+bruto+%C3%A0+decis%C3%A3o+intelig%C3%A9nte;%3E+Docker+%C2%B7+Linux+%C2%B7+PostgreSQL+%C2%B7+Supabase;%3E+Bem-vindo+ao+meu+perfil_" alt="Animação de digitação com minhas áreas de interesse"/>
 </a>
 
 <br><br>
@@ -26,11 +26,11 @@
 
 ```text
 jean@github:~$ whoami
-Jean Souza · estudante de Análise e Desenvolvimento de Sistemas
+Jean Souza · Desenvolvedor Full Stack & Data/ML
 
 jean@github:~$ cat perfil.txt
 local    : Brasil
-foco     : Python · Dados · Machine Learning
+foco     : Backend · Python · Dados · Machine Learning
 status   : online ●
 ```
 
@@ -43,16 +43,18 @@ status   : online ●
 
 <td width="55%" valign="top">
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, programação e dados.
+Sou **Desenvolvedor Full Stack** com foco em **backend, dados e Machine Learning**, apaixonado por transformar problemas reais em **sistemas, dashboards, APIs e soluções orientadas a dados**.
 
-Gosto de transformar problemas reais em **sistemas, dashboards, aplicações e soluções baseadas em dados**.
+Curso Análise e Desenvolvimento de Sistemas e aplico na prática o que aprendo, construindo projetos que unem **engenharia de software** e **ciência de dados**.
 
-**Hoje trabalho com:**
+**Competências principais:**
 
-- 🐍 **Python** — análise de dados e Machine Learning
+- 🐍 **Python** — análise de dados, automação e Machine Learning
+- ⚙️ **Backend** — desenvolvimento de APIs REST, lógica de negócio e integração de sistemas
 - 🌐 **Web** — HTML, CSS, JavaScript e PHP
-- 🗄️ **Bancos de dados e APIs** — PostgreSQL, MySQL, SQLite e Supabase
-- 🚦 **Big Data e infraestrutura** — Linux e Docker
+- 🗄️ **Bancos de dados** — modelagem e consultas em PostgreSQL, MySQL, SQLite e Supabase
+- 🤖 **Machine Learning** — modelagem preditiva com Pandas e XGBoost
+- 🚦 **Infraestrutura & DevOps** — Linux, Docker e versionamento com Git
 
 **Foco atual:**
 
