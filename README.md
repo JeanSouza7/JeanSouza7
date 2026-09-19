@@ -1,386 +1,268 @@
 <div align="center">
 
-<!-- ===================================================== -->
-
-<!-- HEADER -->
-
-<!-- ===================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111f,100:00e5ff&height=230&section=header&text=JEAN%20SOUZA&fontSize=48&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20DATA%20%7C%20TECHNOLOGY&descAlignY=61&descSize=16" width="100%"/>
-
-<br>
-
-<!-- ===================================================== -->
-
-<!-- SYSTEM BOOT -->
-
-<!-- ===================================================== -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%3E+INITIALIZING+JEAN.SOUZA...;%3E+LOADING+MODULES+%5BOK%5D;%3E+DATA+SYSTEM+%5BOK%5D;%3E+SOFTWARE+CORE+%5BOK%5D;%3E+SYSTEM+ONLINE+%E2%9C%93" alt="System Boot"/>
-
-<br><br><br>
-
-<!-- ===================================================== -->
-
-<!-- SOCIAL LINKS -->
-
-<!-- ===================================================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111f,100:00e5ff&height=220&section=header&text=JEAN%20SOUZA&fontSize=46&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%7C%20DATA%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=16" width="100%" alt="Jean Souza - Software, Data, Machine Learning"/>
 
 <a href="https://github.com/JeanSouza7">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%3E+Estudante+de+ADS+%7C+Python+%7C+Dados;%3E+Transformando+dados+em+decis%C3%B5es;%3E+Machine+Learning+%2B+APIs+%2B+Web;%3E+Bem-vindo+ao+meu+perfil_" alt="Animação de digitação com minhas áreas de interesse"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jean-souza-a6b05a28a">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<br><br>
+
+<a href="https://github.com/JeanSouza7">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
-
-<a href="mailto:jeean09.souza@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+<a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=JeanSouza7&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge"/>
-
-</div>
-
-<br>
-
----
-
-# `> SYSTEM INITIALIZATION`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  JEAN.SOUZA // DIGITAL CORE                 ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  USER       : Jean Souza                                    ║
-║  GITHUB     : JeanSouza7                                    ║
-║  STATUS     : ONLINE                                        ║
-║  LOCATION   : BRAZIL                                        ║
-║                                                              ║
-║  ROLE       : SOFTWARE / DATA / TECHNOLOGY                  ║
-║  FOCUS      : DEVELOPMENT • DATA • AUTOMATION               ║
-║                                                              ║
-║  SYSTEM     : ████████████████████████ 100%                 ║
-║  SECURITY   : ████████████████████████ ONLINE               ║
-║  CORE       : ████████████████████████ ACTIVE               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=850&height=35&lines=%3E+BUILDING+SYSTEMS...;%3E+ANALYZING+DATA...;%3E+SOLVING+PROBLEMS...;%3E+CREATING+THE+NEXT+VERSION..." alt="Current Process"/>
 
 </div>
 
 ---
 
-# `> ABOUT_ME`
-
-<img align="right" width="330" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+## `> whoami`
 
 ```text
-> ACCESSING USER PROFILE...
+jean@github:~$ whoami
+Jean Souza · estudante de Análise e Desenvolvimento de Sistemas
 
-NAME:
-Jean Souza
-
-ACADEMIC:
-Análise e Desenvolvimento de Sistemas
-
-INTERESTS:
-Software Development
-Data Analysis
-Artificial Intelligence
-Big Data
-Web Development
-Databases
-APIs
-Infrastructure
-
-CURRENT MISSION:
-Transforming ideas into functional
-software and data-driven solutions.
-
-STATUS:
-Always learning.
-Always building.
+jean@github:~$ cat perfil.txt
+local    : Brasil
+foco     : Python · Dados · Machine Learning
+status   : online ●
 ```
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em tecnologia, desenvolvimento de software e análise de dados.
-
-Gosto de transformar problemas em soluções práticas utilizando programação, dados, APIs, bancos de dados e ferramentas modernas de desenvolvimento.
-
-Minha jornada envolve projetos acadêmicos e pessoais, explorando diferentes áreas da tecnologia e buscando evoluir continuamente minhas habilidades.
-
-<br>
 
 ---
 
-# `> TECH_STACK`
+## `> about_me`
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, programação e dados.
+
+Gosto de transformar problemas reais em **sistemas, dashboards, aplicações e soluções baseadas em dados**.
+
+**Hoje trabalho com:**
+
+- 🐍 **Python** — análise de dados e Machine Learning
+- 🌐 **Web** — HTML, CSS e JavaScript
+- 🗄️ **Bancos de dados e APIs** — PostgreSQL, MySQL, SQLite e Supabase
+- 🚦 **Big Data e infraestrutura** — Linux e Docker
+
+**Foco atual:**
+
+```bash
+jean@github:~$ ls foco-atual/
+data-engineering/  machine-learning/  backend-apis/  cloud-devops/
+```
+
+> `BUILD → LEARN → IMPROVE → REPEAT`
+
+</td>
+
+<td width="45%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JeanSouza7&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&locale=pt-br&border_radius=12" width="100%" alt="Estatísticas do GitHub de Jean Souza"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=JeanSouza7&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=12" width="100%" alt="Sequência de contribuições no GitHub"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `> tech_stack`
 
 <div align="center">
 
-### `PROGRAMMING`
+**💻 Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark"/>
-
-<br><br>
-
-### `DATA & MACHINE LEARNING`
-
-<img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-050505?style=for-the-badge&logo=scikit-learn&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/XGBoost-050505?style=for-the-badge&logo=xgboost&logoColor=00E5FF"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" alt="Python, C, HTML, CSS, JavaScript"/>
 
 <br><br>
 
-### `DATABASES`
+**📊 Dados & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark"/>
+<img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=00E5FF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/XGBoost-050505?style=for-the-badge&logo=xgboost&logoColor=00E5FF" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/Jupyter-050505?style=for-the-badge&logo=jupyter&logoColor=00E5FF" alt="Jupyter"/>
 
 <br><br>
 
-### `TOOLS & ENVIRONMENT`
+**🗄️ Bancos de dados**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark" alt="PostgreSQL, MySQL, SQLite, Supabase"/>
+
+<br><br>
+
+**🛠️ Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Git, GitHub, VS Code, Linux, Docker"/>
 
 </div>
 
 ---
 
-# `> CORE_CAPABILITIES`
+## `> projects`
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  SOFTWARE DEVELOPMENT                                     │
-│  ├── Web Applications                                     │
-│  ├── Automation                                            │
-│  ├── APIs                                                  │
-│  └── Application Logic                                     │
-│                                                            │
-│  DATA                                                     │
-│  ├── Data Cleaning                                         │
-│  ├── Data Analysis                                         │
-│  ├── Data Visualization                                    │
-│  └── Predictive Models                                     │
-│                                                            │
-│  DATABASES                                                 │
-│  ├── SQL                                                   │
-│  ├── PostgreSQL                                            │
-│  ├── MySQL                                                 │
-│  ├── SQLite                                                │
-│  └── Supabase                                               │
-│                                                            │
-│  INFRASTRUCTURE                                            │
-│  ├── Linux                                                 │
-│  ├── Git                                                    │
-│  ├── GitHub                                                 │
-│  └── Docker                                                 │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+### 📊 Dados & Machine Learning
 
----
+<table>
+<tr>
 
-# `> PROJECT_DATABASE`
+<td width="33%" valign="top">
 
-<div align="center">
-
-### `ANALYTICS GAME`
-
-<a href="https://github.com/JeanSouza7/Analitics-game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Analitics-game&theme=github_dark&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=00E5FF"/>
-</a>
-
-<br>
-
-Sistema para consulta e análise de jogos utilizando dados de diferentes fontes.
-
-**Tecnologias:** Python • Streamlit • APIs • SQLite • Data Analysis
-
----
-
-### `TRAFFIC FORECAST`
+#### 🚦 Previsão de Tráfego
 
 <a href="https://github.com/JeanSouza7/Previsao-de-Trafego-em-Rodovias">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Previsao-de-Trafego-em-Rodovias&theme=github_dark&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=00E5FF"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Previsao-de-Trafego-em-Rodovias&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Previsão de Tráfego em Rodovias"/>
 </a>
 
-<br>
+Previsão de tráfego em rodovias com dados reais e Machine Learning.
 
-Projeto de previsão de tráfego em rodovias utilizando dados históricos.
+`Python` `Pandas` `XGBoost` `Jupyter`
 
-**Tecnologias:** Python • Pandas • XGBoost • Machine Learning • Time Series
+</td>
 
----
+<td width="33%" valign="top">
 
-### `INVENTORY CONTROL`
+#### 🎮 Analytics Game
 
-<a href="https://github.com/JeanSouza7/Controle_de_estoque">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Controle_de_estoque&theme=github_dark&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=00E5FF"/>
+<a href="https://github.com/JeanSouza7/Analitics-game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Analitics-game&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Analytics Game"/>
 </a>
 
-<br>
+Projeto acadêmico para consulta, análise e comparação de jogos usando dados de APIs.
 
-Sistema voltado ao controle e gerenciamento de estoque.
+`Python` `APIs` `Data Analytics`
 
----
+</td>
 
-### `CROCK COOKIES`
+<td width="33%" valign="top">
 
-<a href="https://github.com/JeanSouza7/Crock-Cookies-Web-Site">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Crock-Cookies-Web-Site&theme=github_dark&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=00E5FF"/>
-</a>
-
-<br>
-
-Projeto web desenvolvido para apresentação de produtos e experiência de navegação.
-
----
-
-### `HTML PROJECT`
-
-<a href="https://github.com/JeanSouza7/Projeto-HTML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Projeto-HTML&theme=github_dark&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=00E5FF"/>
-</a>
-
----
-
-### `TRAFFIC DATASET`
+#### 📊 Dataset
 
 <a href="https://github.com/JeanSouza7/dataset">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=dataset&theme=github_dark&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=00E5FF"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=dataset&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Dataset"/>
 </a>
 
-</div>
+Dados utilizados nos projetos de análise e previsão.
+
+`Data` `CSV` `Analytics`
+
+</td>
+
+</tr>
+</table>
+
+### 🧩 Sistemas & Web
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+#### 📦 Controle de Estoque
+
+<a href="https://github.com/JeanSouza7/Controle_de_estoque">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Controle_de_estoque&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Controle de Estoque"/>
+</a>
+
+Sistema para gerenciamento e controle de estoque.
+
+`Python`
+
+</td>
+
+<td width="33%" valign="top">
+
+#### 🍪 Crock Cookies
+
+<a href="https://github.com/JeanSouza7/Crock-Cookies-Web-Site">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Crock-Cookies-Web-Site&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Crock Cookies"/>
+</a>
+
+Site com foco em interface e apresentação visual.
+
+`HTML` `CSS`
+
+</td>
+
+<td width="33%" valign="top">
+
+#### 🌐 Projeto HTML
+
+<a href="https://github.com/JeanSouza7/Projeto-HTML">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Projeto-HTML&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Projeto HTML"/>
+</a>
+
+Projeto de prática em desenvolvimento web.
+
+`HTML` `CSS`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# `> CURRENT_OBJECTIVES`
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  CURRENT DEVELOPMENT                    ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  SOFTWARE DEVELOPMENT                                    ║
-║  ███████████████████░░░  85%                            ║
-║                                                          ║
-║  DATA ANALYSIS                                           ║
-║  █████████████████░░░░  75%                             ║
-║                                                          ║
-║  MACHINE LEARNING                                        ║
-║  ██████████████░░░░░░░  65%                             ║
-║                                                          ║
-║  DATABASES                                               ║
-║  ██████████████████░░░  80%                             ║
-║                                                          ║
-║  INFRASTRUCTURE                                         ║
-║  █████████████░░░░░░░░  60%                             ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-# `> GITHUB_ANALYTICS`
+## `> github_analytics`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JeanSouza7&show_icons=true&theme=github_dark&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=00E5FF&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSouza7&layout=compact&theme=github_dark&bg_color=050505&title_color=00E5FF&text_color=C9D1D9&border_color=00E5FF&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSouza7&layout=compact&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF&langs_count=8&locale=pt-br&border_radius=12" height="180" alt="Linguagens mais usadas"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanSouza7&theme=dark&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&border=00E5FF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanSouza7&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Gráfico de atividade no GitHub"/>
 
 </div>
 
 ---
 
-# `> ACTIVITY_MATRIX`
+## `> contribution_matrix`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanSouza7&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=false&border_color=00E5FF&custom_title=JEAN.SOUZA%20%2F%2F%20ACTIVITY%20MATRIX"/>
+<img src="https://raw.githubusercontent.com/JeanSouza7/JeanSouza7/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha de contribuições do GitHub" width="100%"/>
 
 </div>
 
 ---
 
-# `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JeanSouza7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6"/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanSouza7/JeanSouza7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanSouza7/JeanSouza7/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JeanSouza7/JeanSouza7/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-# `> SOCIAL_NETWORK`
+## `> contact --connect`
 
 <div align="center">
 
 <a href="https://github.com/JeanSouza7">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
-
-<a href="https://www.linkedin.com/in/jean-souza-a6b05a28a">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
 </a>
-
-<a href="mailto:jeean09.souza@gmail.com">
-<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+<!-- Opcional: descomente e troque pelo seu e-mail
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="E-mail"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                  SYSTEM STATUS                          ║
-║                                                          ║
-║  CORE................. ONLINE                            ║
-║  DATABASE............. ONLINE                            ║
-║  DEVELOPMENT.......... ACTIVE                            ║
-║  DATA PIPELINE........ ACTIVE                            ║
-║  LEARNING............. CONTINUOUS                        ║
-║                                                          ║
-║              > SYSTEM READY_                            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=JeanSouza7&label=PROFILE%20ACCESS&color=00E5FF&style=for-the-badge"/>
+-->
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:07111f,100:050505&height=120&section=footer"/>
+```text
+> KEEP BUILDING. KEEP LEARNING. KEEP EVOLVING.
+```
+
+<img src="https://komarev.com/ghpvc/?username=JeanSouza7&label=PROFILE%20VIEWS&color=00E5FF&style=flat-square" alt="Visualizações do perfil"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:07111f,100:050505&height=120&section=footer" width="100%" alt=""/>
 
 </div>
