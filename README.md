@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111f,100:00e5ff&height=220&section=header&text=JEAN%20SOUZA&fontSize=46&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%7C%20DATA%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=16" width="100%" alt="Jean Souza - Software, Data, Machine Learning"/>
 
 <a href="https://github.com/JeanSouza7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=%3E+Estudante+de+ADS+%7C+Python+%26+Dados;%3E+Backend+Developer+%7C+Python+%26+PHP;%3E+APIs+REST+%26+Bancos+de+Dados;%3E+Machine+Learning+%26+An%C3%A1lise+de+Dados;%3E+Automatizando+processos+com+Python;%3E+Docker+%C2%B7+Linux+%C2%B7+PostgreSQL+%C2%B7+Supabase;%3E+Bem-vindo+ao+meu+perfil_" alt="Animação de digitação com minhas áreas de interesse"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=%3E+Estudante+de+ADS+%7C+Python+%26+Dados;%3E+Backend+Developer+%7C+Python;%3E+APIs+REST+%26+Bancos+de+Dados;%3E+Machine+Learning+%26+An%C3%A1lise+de+Dados;%3E+Automatizando+processos+com+Python;%3E+Docker+%C2%B7+Linux+%C2%B7+PostgreSQL+%C2%B7+Supabase;%3E+Bem-vindo+ao+meu+perfil_" alt="Animação de digitação com minhas áreas de interesse"/>
 </a>
 
 <br><br>
@@ -51,7 +51,7 @@ Aplico na prática o que aprendo, construindo projetos que unem **desenvolviment
 
 - 🐍 **Python** — análise de dados, automação e Machine Learning
 - ⚙️ **Backend** — desenvolvimento de APIs REST, lógica de negócio e integração de sistemas
-- 🌐 **Web** — HTML, CSS, JavaScript e PHP
+- 🌐 **Web** — HTML, CSS e JavaScript
 - 🗄️ **Bancos de dados** — modelagem e consultas em PostgreSQL, MySQL, SQLite e Supabase
 - 🤖 **Machine Learning** — modelagem preditiva com Pandas e XGBoost
 - 🚦 **Infraestrutura & DevOps** — Linux, Docker e versionamento com Git
@@ -88,7 +88,7 @@ data-engineering/  machine-learning/  backend-apis/  cloud-devops/
 
 **💻 Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,php&theme=dark" alt="Python, C, HTML, CSS, JavaScript, PHP"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" alt="Python, C, HTML, CSS, JavaScript"/>
 
 <br><br>
 
@@ -174,7 +174,7 @@ Dataset de tráfego utilizado no projeto de previsão em rodovias.
 
 Site de uma loja de cookies com cardápio, promoções e SAC, com backend em PHP e SQL.
 
-`HTML` `CSS` `JavaScript` `PHP` `SQL`
+`HTML` `CSS` `JavaScript` `SQL`
 
 </td>
 
