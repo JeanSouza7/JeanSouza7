@@ -133,9 +133,9 @@ Previsão de tráfego em rodovias com dados reais e Machine Learning.
 
 <td width="50%" valign="top">
 
-### 🎮 Analytics Game
+### 🎮 Game Analytics
 
-<a href="https://github.com/JeanSouza7/Analitics-game">
+<a href="https://github.com/JeanSouza7/Game-Analytics">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Analitics-game&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Analytics Game"/>
 </a>
 
