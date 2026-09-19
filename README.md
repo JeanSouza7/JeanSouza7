@@ -262,59 +262,6 @@ Repositório utilizado para armazenamento de dados dos projetos de análise e pr
 
 </tr>
 </table>
-
----
-
-# `> GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JeanSouza7&show_icons=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSouza7&layout=compact&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF&langs_count=8&count_private=true" height="180" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanSouza7&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanSouza7&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=JEAN%20SOUZA%20%2F%2F%20ACTIVITY%20GRAPH" width="95%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-# `> ACHIEVEMENTS --unlock`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JeanSouza7&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="90%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanSouza7/JeanSouza7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanSouza7/JeanSouza7/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JeanSouza7/JeanSouza7/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-</div>
-
 ---
 
 # `> SOCIAL_NETWORK --connect`
