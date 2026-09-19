@@ -35,7 +35,7 @@
 
 ---
 
-## `> about_me`
+## 👨‍💻 `> about_me`
 
 <table>
 <tr>
@@ -81,7 +81,7 @@ data-engineering/  machine-learning/  backend-apis/  cloud-devops/
 
 ---
 
-## `> tech_stack`
+## 🛠️ `> tech_stack`
 
 <div align="center">
 
@@ -113,7 +113,7 @@ data-engineering/  machine-learning/  backend-apis/  cloud-devops/
 
 ---
 
-## `> projects`
+## 📂 `> projects`
 
 <table>
 <tr>
@@ -182,7 +182,7 @@ Site de uma loja de cookies com cardápio, promoções e SAC, com backend em PHP
 
 ---
 
-## `> contribution_matrix`
+## 📈 `> contribution_matrix`
 
 <div align="center">
 
@@ -192,7 +192,7 @@ Site de uma loja de cookies com cardápio, promoções e SAC, com backend em PHP
 
 ---
 
-## `> contact --connect`
+## 📡 `> contact --connect`
 
 <div align="center">
 
