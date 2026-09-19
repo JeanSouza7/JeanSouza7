@@ -181,20 +181,6 @@ Site de uma loja de cookies com cardápio, promoções e SAC, com backend em PHP
 
 ---
 
-## `> github_analytics`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSouza7&layout=compact&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF&langs_count=8&locale=pt-br&border_radius=12" height="180" alt="Linguagens mais usadas"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanSouza7&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Gráfico de atividade no GitHub"/>
-
-</div>
-
----
-
 ## `> contribution_matrix`
 
 <div align="center">
