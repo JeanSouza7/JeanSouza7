@@ -68,7 +68,7 @@ data-engineering/  machine-learning/  backend-apis/  cloud-devops/
 
 <td width="45%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeanSouza7&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&locale=pt-br&border_radius=12" width="100%" alt="Estatísticas do GitHub de Jean Souza"/>
+<img src="https://github-readme-stats-blush-theta-35.vercel.app/api?username=JeanSouza7&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&locale=pt-br&border_radius=12" width="100%" alt="Estatísticas do GitHub de Jean Souza"/>
 
 <br>
 
@@ -123,7 +123,7 @@ data-engineering/  machine-learning/  backend-apis/  cloud-devops/
 ### 🚦 Previsão de Tráfego
 
 <a href="https://github.com/JeanSouza7/Previsao-de-Trafego-em-Rodovias">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Previsao-de-Trafego-em-Rodovias&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Previsão de Tráfego em Rodovias"/>
+<img src="https://github-readme-stats-blush-theta-35.vercel.app/api/pin/?username=JeanSouza7&repo=Previsao-de-Trafego-em-Rodovias&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Previsão de Tráfego em Rodovias"/>
 </a>
 
 Previsão de tráfego em rodovias com dados reais e Machine Learning.
@@ -137,7 +137,7 @@ Previsão de tráfego em rodovias com dados reais e Machine Learning.
 ### 🎮 Game Analytics
 
 <a href="https://github.com/JeanSouza7/Game-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Analitics-game&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Analytics Game"/>
+<img src="https://github-readme-stats-blush-theta-35.vercel.app/api/pin/?username=JeanSouza7&repo=Analitics-game&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Analytics Game"/>
 </a>
 
 Projeto acadêmico que coleta dados de videogames de várias APIs e os apresenta em dashboards interativos.
@@ -154,7 +154,7 @@ Projeto acadêmico que coleta dados de videogames de várias APIs e os apresenta
 ### 📊 Dataset de Tráfego
 
 <a href="https://github.com/JeanSouza7/dataset">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=dataset&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Dataset de Tráfego"/>
+<img src="https://github-readme-stats-blush-theta-35.vercel.app/api/pin/?username=JeanSouza7&repo=dataset&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Dataset de Tráfego"/>
 </a>
 
 Dataset de tráfego utilizado no projeto de previsão em rodovias.
@@ -168,7 +168,7 @@ Dataset de tráfego utilizado no projeto de previsão em rodovias.
 ### 🍪 Crock Cookies
 
 <a href="https://github.com/JeanSouza7/Crock-Cookies-Web-Site">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanSouza7&repo=Crock-Cookies-Web-Site&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Crock Cookies"/>
+<img src="https://github-readme-stats-blush-theta-35.vercel.app/api/pin/?username=JeanSouza7&repo=Crock-Cookies-Web-Site&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=12" width="100%" alt="Repositório Crock Cookies"/>
 </a>
 
 Site de uma loja de cookies com cardápio, promoções e SAC, com backend em PHP e SQL.
